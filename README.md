@@ -17,6 +17,6 @@ Towards the end, the book gives a brief overview of Unsupervised Learning. Vario
 
 ## Related Products
 
+* [Machine Learning Cookbook with Python](https://bpbonline.com/products/machine-learning-cookbook-with-python?_pos=5&_sid=a07181f61&_ss=r)
 * [Pragmatic Machine Learning with Python](https://bpbonline.com/products/machine-learning-python-book-ebook?_pos=4&_sid=a07181f61&_ss=r)
 * [Data Science and Machine Learning Interview Questions using Python](https://bpbonline.com/products/data-science-and-machine-learning-interview-questions-using-python-book-ebook?_pos=10&_sid=a07181f61&_ss=r)
-* [Machine Learning Cookbook with Python](https://bpbonline.com/products/machine-learning-cookbook-with-python?_pos=5&_sid=a07181f61&_ss=r)
